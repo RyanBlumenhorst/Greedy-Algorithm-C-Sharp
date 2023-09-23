@@ -4,9 +4,11 @@ public class MakeChange
 {
     public static void change (double cost, double paid)
     {
+        //Find total amount of change
         double amount = paid - cost;
         amount = Math.Round(amount, 2);
 
+        //Variables for each bill and coin
         int hundreds = 0;
         int fifties = 0;
         int twenties = 0;
@@ -18,6 +20,7 @@ public class MakeChange
         int nickles = 0;
         int pennies = 0;
 
+        //Works down the list, starting with the biggest bill and working down to pennies. If amount is bigger than the bill or coin, add one to their counter and reduce amount by the value of the bill or coin
         while (amount >= 100)
         {
             hundreds++;
@@ -69,6 +72,7 @@ public class MakeChange
             amount = Math.Round(amount - 0.01, 2);
         }
 
+        //Print out variables for change. This will only print an amount if you are supposed to get one or more back (ex. it won't say "0 Hundred Dollar Bills")
         Console.WriteLine("Your Change:");
         
         if (hundreds > 0)
@@ -185,14 +189,17 @@ public class MakeChange
 
 
     }
+    
     public static void Main(string[] args)
     {
         try
         {
+            //Prompt
             Console.WriteLine("Enter the cost:");
             double cost = Math.Round(Convert.ToDouble(Console.ReadLine()), 2);
             Console.WriteLine("Enter how much you paid");
             double paid = Math.Round(Convert.ToDouble(Console.ReadLine()), 2);
+            //Run Module
             change(cost, paid);
         } catch (Exception e)
         {
