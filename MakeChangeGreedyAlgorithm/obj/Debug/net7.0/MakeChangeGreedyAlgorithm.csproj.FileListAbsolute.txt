@@ -1,0 +1,14 @@
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\bin\Debug\net7.0\MakeChangeGreedyAlgorithm.exe
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\bin\Debug\net7.0\MakeChangeGreedyAlgorithm.deps.json
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\bin\Debug\net7.0\MakeChangeGreedyAlgorithm.runtimeconfig.json
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\bin\Debug\net7.0\MakeChangeGreedyAlgorithm.dll
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\bin\Debug\net7.0\MakeChangeGreedyAlgorithm.pdb
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.AssemblyInfo.cs
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.dll
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\refint\MakeChangeGreedyAlgorithm.dll
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.pdb
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\MakeChangeGreedyAlgorithm.genruntimeconfig.cache
+C:\Users\ryanb\source\repos\MakeChangeGreedyAlgorithm\obj\Debug\net7.0\ref\MakeChangeGreedyAlgorithm.dll
